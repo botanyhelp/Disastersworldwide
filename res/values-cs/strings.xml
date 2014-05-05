@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">katastrofy ve světě</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="disasterdata"></string>
+    <string name="disastersearch">Vyhledávání katastrofami</string>
+    <string name="location">umístění</string>
+    <string name="type">Disaster Typ</string>
+    <string name="killed">1000000 zabil</string>
+    <string name="killedhundredthousand">100000 zabil</string>
+    <string name="killedtenthousand">10000 zabil</string>
+    <string name="year">rok</string>
+    <string name="help">pomoci</string>
+</resources>

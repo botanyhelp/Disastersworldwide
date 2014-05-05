@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">世界各地的災害</string>
+    <string name="action_settings">设置</string>
+    <string name="disasterdata"></string>
+    <string name="disastersearch">搜索灾害</string>
+    <string name="location">位置</string>
+    <string name="type">灾害类型</string>
+    <string name="killed">1,000,000人死亡</string>
+    <string name="killedhundredthousand">100,000人死亡</string>
+    <string name="killedtenthousand">10,000人死亡</string>
+    <string name="year">年</string>
+    <string name="help">帮助</string>
+</resources> 

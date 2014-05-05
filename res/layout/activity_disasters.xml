@@ -1,0 +1,105 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            tools:context=".Disasters" >
+
+            <TextView
+                android:id="@+id/txt_Disasterdata"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/disasterdata" />
+
+            <ImageView
+                android:id="@+id/imagedetail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="fitCenter"
+                android:src="@drawable/disasters"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/txt_disastersearch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="10"
+                android:text="@string/disastersearch" />
+
+            <Button
+                android:id="@+id/btn_Location"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickLocation"
+                android:text="@string/location" />
+
+            <Button
+                android:id="@+id/btn_LocationPager"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickLocationMore"
+                android:text="Next 100"
+                android:visibility="invisible" />
+
+            <Button
+                android:id="@+id/btn_Type"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickType"
+                android:text="@string/type" />
+            <Button
+                android:id="@+id/btn_TypePager"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickTypeMore"
+                android:text="Next 100"
+                android:visibility="invisible" />
+            <Button
+                android:id="@+id/btn_Killed"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickKilled"
+                android:text="@string/killed" />
+
+            <Button
+                android:id="@+id/btn_KilledHundredThousand"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickKilledHundredThousand"
+                android:text="@string/killedhundredthousand" />
+
+            <Button
+                android:id="@+id/btn_KilledTenThousand"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickKilledTenThousand"
+                android:text="@string/killedtenthousand" />
+
+            <Button
+                android:id="@+id/btn_Year"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickYear"
+                android:text="@string/year" />
+
+            <Button
+                android:id="@+id/btn_Help"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickHelp"
+                android:text="@string/help" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">전세계 재해</string>
+    <string name="action_settings">설정</string>
+    <string name="disasterdata"></string>
+    <string name="disastersearch">재해로 검색</string>
+    <string name="location">위치</string>
+    <string name="type">재해 유형</string>
+    <string name="killed">1,000,000 사망</string>
+    <string name="killedhundredthousand">100,000 사망</string>
+    <string name="killedtenthousand">10,000 사망</string>
+    <string name="year">년</string>
+    <string name="help">도움</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">бедствий во всем мире</string>
+    <string name="action_settings">настройки</string>
+    <string name="disasterdata"></string>
+    <string name="disastersearch">Поиск от стихийных бедствий</string>
+    <string name="location">расположение</string>
+    <string name="type">Тип бедствий</string>
+    <string name="killed">1000000 убитый</string>
+    <string name="killedhundredthousand">100000 убитый</string>
+    <string name="killedtenthousand">10000 убитый</string>
+    <string name="year">год</string>
+    <string name="help">помощь</string>
+</resources>

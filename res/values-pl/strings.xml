@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Katastrofy na świecie</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="disasterdata"></string>
+    <string name="disastersearch">Szukaj klęskami</string>
+    <string name="location">lokalizacja</string>
+    <string name="type">Rodzaj Disaster</string>
+    <string name="killed">1000000 Zabity</string>
+    <string name="killedhundredthousand">100000 Zabity</string>
+    <string name="killedtenthousand">10000 Zabity</string>
+    <string name="year">rok</string>
+    <string name="help">pomoc</string>
+</resources>

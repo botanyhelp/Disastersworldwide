@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">世界の災害</string>
+    <string name="action_settings">設定</string>
+    <string name="disasterdata"></string>
+    <string name="disastersearch">災害による検索</string>
+    <string name="location">場所</string>
+    <string name="type">災害の種類</string>
+    <string name="killed">1,000,000殺し</string>
+    <string name="killedhundredthousand">100,000殺し</string>
+    <string name="killedtenthousand">10,000殺し</string>
+    <string name="year">年</string>
+    <string name="help">役立つ</string>
+</resources>

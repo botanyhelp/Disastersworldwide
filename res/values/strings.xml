@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Disasters Worldwide</string>
+    <string name="action_settings">Settings</string>
+    <string name="disasterdata"></string>
+    <string name="disastersearch">Search Disasters By</string>
+    <string name="location">Location</string>
+    <string name="type">Disaster Type</string>
+    <string name="killed">1 million Killed</string>   
+    <string name="killedhundredthousand">100,000 Killed</string> 
+    <string name="killedtenthousand">10,000 Killed</string> 
+    <string name="year">Year</string>
+    <string name="help">Help</string>      
+</resources>
